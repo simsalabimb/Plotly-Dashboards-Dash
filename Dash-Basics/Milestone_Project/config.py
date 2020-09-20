@@ -1,0 +1,1 @@
+TIINGO_API_KEY = '8ea8a1119c10bcff797e7094c6fe2f0cdce609f8'
